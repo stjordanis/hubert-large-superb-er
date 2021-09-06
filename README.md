@@ -7,6 +7,11 @@ tags:
 - audio
 - hubert
 - audio-classification
+widget:
+- label: IEMOCAP sample 1
+  src: https://cdn-media.huggingface.co/speech_samples/IEMOCAP_Ses01F_impro03_F013.wav
+- label: IEMOCAP sample 2
+  src: https://cdn-media.huggingface.co/speech_samples/IEMOCAP_Ses01F_impro04_F000.wav
 license: apache-2.0
 ---
 
