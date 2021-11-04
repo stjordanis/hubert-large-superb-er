@@ -8,9 +8,9 @@ tags:
 - hubert
 - audio-classification
 widget:
-- label: IEMOCAP clip "happy"
+- example_title: IEMOCAP clip "happy"
   src: https://cdn-media.huggingface.co/speech_samples/IEMOCAP_Ses01F_impro03_F013.wav
-- label: IEMOCAP clip "neutral"
+- example_title: IEMOCAP clip "neutral"
   src: https://cdn-media.huggingface.co/speech_samples/IEMOCAP_Ses01F_impro04_F000.wav
 license: apache-2.0
 ---
